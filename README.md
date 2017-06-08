@@ -12,3 +12,5 @@ File description:
 3) D6305.random.fasta & HM782D.random.fasta, are a normalized subset of 10,000 sequences per sample created by random selection after shuffling (10,000X) of the original dataset.
 
 4) amplicon5k.bc[1/8].[F/R].fasta files, are the fasta files of the filtered+split reads obtained during MinION sequencing of amplicons generated from HM782D and D6305, respectively.
+
+5) barcodes, is the text file needed to extract reads for HM782D and D6305 samples from the Illumina files stored at ENA, study accession PRJEB15264, experiment ERX2062322.
